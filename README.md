@@ -1,4 +1,5 @@
 # ImageNet
+https://academictorrents.com/collection/imagenet-2012
 
 ## Trian
 
